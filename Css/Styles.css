@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:  rgb(250, 235, 216) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+hr{
+    margin-left: 50%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h2, h3{
+    color:#52acac;
+
+}
+
+ul{
+    margin-left: 30px;
+
+}
+
+.full{
+    width: 100%;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 4fr 4fr;
+}
+
+.left{
+    position: initial;
+    background-color: rgb(245, 239, 231);
+    padding: 20px;
+}
+
+.right{
+    position: initial;
+    background-color:  rgb(250, 235, 216) ;
+    padding: 20px;
+}
+
+.image{
+    width: 200px ;
+    border-radius: 50%;
+    height: 190px;
+    margin-left: 25%;
+}
+.name{
+    margin-left: 25%;
+}
+.contact, .language, .skill, .interest, .propo, .exp{
+    margin-left: 25px;
+
+}
+
+.circular{
+    border-radius: 50%;
+    margin-left: 100px;
+
+}
+.me{
+    margin-left: 200px;
+
+
+}  
+
+.formulaire{
+    margin-left: 50px;
+    margin-top: 100px;
+    display:flex;
+    background-color: blanchedalmond;
+    border-style: 0px 0px 0px 0px;
+    border-color:grey;
+    border-width: 5px;
+    width: 500px;
+    height: 470px;
+    box-shadow: 5px 5px 3px black;
+}
+.form{
+    padding:50px 50px 50px 40px;
+    
+
+}
+
+.body{
+        background-color: #EAF6F6; 
+}
+
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#399696;
+
+}
+
+.namel{
+    margin-left: 100px;
+    width: 230px;
+    height: 30px;
+}
+
+.email{
+    margin-left: 92px;
+    width: 230px;
+    height: 30px;
+}
+
+.area{
+    margin-left: 140px;
+}
+
+.btn{
+    margin-left: 180px;
+    width: 100px;
+    height:20px;
+    border-radius: 10px;
+    background-color:#399696;
+    color:white;
+    font-weight: bold;
+    border: none;
+}
+
+.contact{
+    text-align: center;
+    box-shadow: 0px 3px 2px white;
+
+}
+
+.btn:hover
+{
+  box-shadow: 0px 5px 5px black;
+}
+
+
