@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal web site_CV</title>
+    <link rel="stylesheet" href="Css/Styles.css">
+</head>
+
+<body>
+    <br>
+    <div class="full">
+        <div class="left">
+            <div class="image">
+                <img src="Images/Profil.jpg" class="image" alt="mon profil">       
+            </div>
+            <h1 class="name">Esdras Nehemie DZANGA</h1>
+            <br>
+            <br>
+            <div class="contact">
+                <h2> Conctact </h2>
+                <br>
+                <p><b>Telephone : </b>+237653216094</p>
+                <p><b>Email: </b>dzanganehemie1@gmail.com</p>
+                <p><b>Adresse :</b>Camp chic,Sangmelima,CAMEROUN</p>
+            </div>
+            <br>
+            <br>
+            <hr size="3">
+            <div class="language">
+                <h2> Langues </h2>
+                <table cellspacing="20">
+                    <tr>
+                        <td>Français</td>
+                        <td>🌟🌟🌟🌟🌟🌟</td>
+                    </tr>
+                    <tr>
+                        <td>Anglais</td>
+                        <td>🌟🌟🌟🌟🌟</td>
+                    </tr>
+                
+            </table>
+            </div>
+            <br>
+            <br>
+            <hr size="3">
+
+            <div class="skill">
+                <h2>Compétences</h2>
+                <ul>
+                    <li>Developpeur Web</li>
+                    <li>Developpeur mobile</li>
+                    <li>Developpeur logiciel</li>
+                    <li>Technicien et programmeur en systèmes domotiques</li>
+                    <li>Designer</li>
+                    <li>Chef de projet</li>
+                </ul>
+            </div>
+            <br>
+            <br>
+            <hr size="3">
+            <div class="interest">
+                <h2>Centres d'intérêt</h2>
+                <ul>
+                    <li>Musique</li>
+                    <li>Lecture</li>
+                    <li>Voyage</li>
+                    <li>Actualités technologiques</li>
+
+                </ul>
+            </div>
+
+            <br>
+            <br>
+            <hr size="3">
+            <div class="interest">
+                <br>
+                <p>Pour débuter dans le numérique rendez-vous sur <strong><a href="https://www.bing.com/ck/">Microsoft Bing</a></strong> pour plus d'informations.</p>    
+                <img src="Images/UIECC.jpg" class="circular" >
+                <br>
+                <br>
+
+                <a href="Contactme.html" class="me">Contact me</a>
+
+            
+            </div>
+        </div>
+        
+        <div class="right">
+            <div class="propo">
+                <h2>A Propos </h2>
+                <br>
+                <p><b>Esdras Nehemie DZANGA</b> est un étudiant de troisième année en Ingénierie des Systèmes Numériques, qui après avoir obtenu son bac avec mention, a quitté son pays d'origine pour rejoindre l'<b>Ecole Supérieure Internationale de Génie Numérique</b> au Cameroun.<br></p>
+                <p>C'est un étudiant chercheur, passionné par les outils technologiques. <b>Sa vision </b>est celle de contribuer à la grande révolution du Numérique en développant les compétences et connaissances necessaires liées au <b>Génie Informatique</b>.</p> 
+             </div>
+            <br>
+            <br>
+            <hr size="3">
+            <br>
+            <div class="exp">
+                <h2>Formations</h2>
+                <table border="0" cellspacing="20">
+                    <thead>
+                        <tr>
+                            <th>Dates</th>
+                            <th>Type</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>2019-2022</td>
+                            <td>Licence en Systèmes Numériques</td>
+                        </tr>
+                        <tr>
+                            <td>2019</td>
+                            <td>Baccalauréat Scientifique</td>
+                        </tr>
+                    </tbody>     
+                </table>
+            </div>
+            <br>
+            <hr size="3">
+            <br>
+            <div class="exp">
+                <h2>Expériences proféssionnelles </h2>
+                <br>
+                <h3>2019-2020</h3>
+                <p>Membre d'un groupe de developpement d'un projet de domotique</p>
+                <br>
+                <h3>2020-2021</h3>
+                <p>Chef de projet de developpement d'un logiciel de gestion d'une bibliothèque</p>
+                <br>
+                <h3>2020-2021</h3>
+                <p>Obtention d'un certificat après réalisation d'un projet d'enceinte audio lors d'un concours de projet</p>
+                <br>
+                <h3>2021</h3>
+                <p>Membre d'un projet de développement d'une plateforme de gestion d'un établissement scolaire</p>
+               <br>
+                <h3>2022</h3>
+                <p>Chef de projet d'une tablette éducative</p>
+   
+
+            </div>
+
+
+
+        </div>
+        
+
+    </div>
+ 
+</body>
+
+</html>
